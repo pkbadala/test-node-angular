@@ -1,0 +1,83 @@
+/* 1 */
+{
+    "_id" : ObjectId("5f4a7340c8604b07cf34823f"),
+    "updatedAt" : ISODate("2020-08-29T15:24:48.577Z"),
+    "createdAt" : ISODate("2020-08-29T15:24:48.577Z"),
+    "name" : "Anna Karenina",
+    "description" : "The novel was especially revolutionary in its treatment of women, depicting prejudices and social hardships of the time with vivid emotion.",
+    "category" : "Books",
+    "status" : "Draft",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5f4a739fc8604b07cf348240"),
+    "updatedAt" : ISODate("2020-08-29T15:26:23.574Z"),
+    "createdAt" : ISODate("2020-08-29T15:26:23.574Z"),
+    "name" : "Tiyono",
+    "description" : "Be uncommon among the common with the highest and uncommon clothing collection of us",
+    "category" : "Cloths",
+    "status" : "Draft",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5f4a73c5c8604b07cf348241"),
+    "updatedAt" : ISODate("2020-08-29T15:27:01.640Z"),
+    "createdAt" : ISODate("2020-08-29T15:27:01.640Z"),
+    "name" : "Logerro",
+    "description" : "Celebrate your loveable days of life dressing up with marvellous apparel",
+    "category" : "Cloths",
+    "status" : "Published",
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5f4a73efc8604b07cf348242"),
+    "updatedAt" : ISODate("2020-08-29T15:27:43.587Z"),
+    "createdAt" : ISODate("2020-08-29T15:27:43.587Z"),
+    "name" : "One Hundred Years of Solitude",
+    "description" : "Márquez highlights the prevalence and power of myth and folktale in relating history and Latin American culture.",
+    "category" : "Books",
+    "status" : "Published",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5f4a742bc8604b07cf348243"),
+    "updatedAt" : ISODate("2020-08-29T15:28:43.932Z"),
+    "createdAt" : ISODate("2020-08-29T15:28:43.932Z"),
+    "name" : "A Passage to India",
+    "description" : " The book was published in 1924 and follows a Muslim Indian doctor named Aziz and his relationships with an English professor, Cyril Fielding, and a visiting English schoolteacher named Adela Quested.",
+    "category" : "Cloths",
+    "status" : "Draft",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5f4a7458c8604b07cf348244"),
+    "updatedAt" : ISODate("2020-08-29T15:29:28.923Z"),
+    "createdAt" : ISODate("2020-08-29T15:29:28.923Z"),
+    "name" : "Woodland",
+    "description" : "The raw materials used for shoes, including soles, are manufactured in-house. Italian machinery is used for tanning and finishing the hand-picked Italian hides.",
+    "category" : "Shoes",
+    "status" : "Draft",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5f4a74b761ef6f085792a02b"),
+    "updatedAt" : ISODate("2020-08-29T15:31:03.556Z"),
+    "createdAt" : ISODate("2020-08-29T15:31:03.556Z"),
+    "name" : "Invisible Man",
+    "description" : "In each location he faces extreme adversity and discrimination, falling into and out of work, relationships, and questionable social movements in a wayward and ethereal mindset. ",
+    "category" : "Books",
+    "status" : "Draft",
+    "__v" : 0
+}
